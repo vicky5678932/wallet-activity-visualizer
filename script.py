@@ -20,3 +20,4 @@
 # fix 5172
 # fix 8982
 # optimize 6646
+# fix 6399
